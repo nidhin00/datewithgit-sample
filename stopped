@@ -1,0 +1,48 @@
+* [33mcommit f4845930195b8ce0af8cb16217fa37fad02338af[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature[m[33m)[m
+[31m|[m Author: Nidhin raj <nidhiinr00@gmail.com>
+[31m|[m Date:   Wed Apr 9 13:21:10 2025 +0530
+[31m|[m 
+[31m|[m     hello file modified
+[31m|[m   
+[31m|[m * [33mcommit e267b863d85bb2892744f4c4826e6c81f9599c9c[m[33m ([m[1;32mmaster[m[33m)[m
+[31m|[m[31m/[m  Author: Nidhin raj <nidhiinr00@gmail.com>
+[31m|[m   Date:   Wed Apr 9 13:03:57 2025 +0530
+[31m|[m   
+[31m|[m       hey file modified
+[31m|[m   
+[31m|[m * [33mcommit 7625c1e1c92419cc6c1ca31082d3724b46b29482[m[33m ([m[1;35mrefs/stash[m[33m)[m
+[31m|[m[31m/[m[34m|[m Merge: b3c21c3 a237025
+[31m|[m [34m|[m Author: Nidhin raj <nidhiinr00@gmail.com>
+[31m|[m [34m|[m Date:   Wed Apr 9 12:57:47 2025 +0530
+[31m|[m [34m|[m 
+[31m|[m [34m|[m     WIP on feature: b3c21c3 hey file edited
+[31m|[m [34m|[m 
+[31m|[m * [33mcommit a237025fb60724c8b4999c0f959c47c511af36bd[m
+[31m|[m[31m/[m  Author: Nidhin raj <nidhiinr00@gmail.com>
+[31m|[m   Date:   Wed Apr 9 12:57:47 2025 +0530
+[31m|[m   
+[31m|[m       index on feature: b3c21c3 hey file edited
+[31m|[m 
+* [33mcommit b3c21c36a115c6aa7908444bc6e9002172b95ca0[m
+[34m|[m Author: Nidhin raj <nidhiinr00@gmail.com>
+[34m|[m Date:   Wed Apr 9 12:38:01 2025 +0530
+[34m|[m 
+[34m|[m     hey file edited
+[34m|[m 
+* [33mcommit 487c48dde5c20af13be72a5fe0317502d7b4282b[m
+[34m|[m Author: Nidhin raj <nidhiinr00@gmail.com>
+[34m|[m Date:   Wed Apr 9 12:30:16 2025 +0530
+[34m|[m 
+[34m|[m     second file added
+[34m|[m 
+* [33mcommit 7a5bb67f804452858701ab10a1c1f424a673d5d1[m
+[34m|[m Author: Nidhin raj <nidhiinr00@gmail.com>
+[34m|[m Date:   Tue Apr 8 00:25:08 2025 +0530
+[34m|[m 
+[34m|[m     added some messages
+[34m|[m 
+* [33mcommit e37d8f3ab902f5407e3e03eef249568ee4a64ac2[m
+  Author: Nidhin raj <nidhiinr00@gmail.com>
+  Date:   Tue Apr 8 00:17:14 2025 +0530
+  
+      initial commit
